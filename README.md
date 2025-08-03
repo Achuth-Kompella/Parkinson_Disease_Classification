@@ -1,4 +1,4 @@
-# Parkinson-s-disease-classification
+# Parkinson's_disease_classification
 
 Summary of Qualifications:
 
